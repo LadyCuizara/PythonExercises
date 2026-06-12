@@ -37,3 +37,5 @@ dist/
 
 # mypy
 .mypy_cache/
+
+.vscode/
